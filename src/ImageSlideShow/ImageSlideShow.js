@@ -5,7 +5,7 @@ import f1 from "./f1.JPG";
 import f2 from "./f2.JPG";
 import f3 from "./f3.JPG";
 
-const PauseHoverExample = () => {
+const ImageSlideShow = () => {
   const images = [f1, f2, f3];
 
   const zoomInProperties = {
@@ -42,4 +42,4 @@ const PauseHoverExample = () => {
   );
 };
 
-export default PauseHoverExample;
+export default ImageSlideShow;
